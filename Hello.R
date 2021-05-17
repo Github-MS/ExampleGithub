@@ -1,1 +1,1 @@
-print("Hello World! Have a nice day")
+print("Hello World! This is an StatTalk")
